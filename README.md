@@ -2,7 +2,7 @@
 
 The aim of the ontology is to represent knowledge related to drones' semantic trajectories (flights, missions, recordings). Reuses datAcron ontology (http://ai-group.ds.unipi.gr/datacron_ontology/).
 
-Ontology IRI: http://w3id.org/onto4drone
+Ontology IRI (public @W3id.org): http://w3id.org/onto4drone
 
 Ontology proposed prefix: dront
 
